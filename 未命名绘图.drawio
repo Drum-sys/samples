@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T06:09:31.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="8qxXlBOI6hxCuHE-zaOi" version="21.3.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-31T06:10:13.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="7IomWsA4qx7cK5pHKmso" version="21.3.2" type="github" pages="5">
   <diagram name="第 1 页" id="cdB0dzV50iwRAIt3E4Pi">
     <mxGraphModel dx="1242" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
       <root>
@@ -780,15 +780,6 @@
         </mxCell>
         <mxCell id="fn-XdQQ4jEpp8Li5v1X1-28" value="GET请求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="990" y="482.5" width="110" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="fn-XdQQ4jEpp8Li5v1X1-31" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=45;exitDy=35;exitPerimeter=0;entryX=0;entryY=0;entryDx=45;entryDy=15;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="fn-XdQQ4jEpp8Li5v1X1-19" target="fn-XdQQ4jEpp8Li5v1X1-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fn-XdQQ4jEpp8Li5v1X1-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=45;exitDy=15;exitPerimeter=0;entryX=0;entryY=0;entryDx=22.5;entryDy=15;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="985" y="425" as="sourcePoint" />
-            <mxPoint x="985" y="402.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="fn-XdQQ4jEpp8Li5v1X1-33" value="后端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="280" y="560" width="80" height="360" as="geometry" />
