@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T04:53:08.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="J4l_RDOviFaYrmzWMVz7" version="21.3.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-31T06:08:31.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="NuElwy_wes8L_Cy0sG9T" version="21.3.2" type="github" pages="5">
   <diagram name="第 1 页" id="cdB0dzV50iwRAIt3E4Pi">
-    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
+    <mxGraphModel dx="1242" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -703,7 +703,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pdrVlmrUVXoXJnVFMYCV" name="第 5 页">
-    <mxGraphModel dx="1434" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -796,7 +796,7 @@
         <mxCell id="fn-XdQQ4jEpp8Li5v1X1-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="380" y="560" width="370" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="fn-XdQQ4jEpp8Li5v1X1-35" value="WMS仓储管理系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="fn-XdQQ4jEpp8Li5v1X1-35" value="智慧仓储管理系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="470" y="570" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fn-XdQQ4jEpp8Li5v1X1-37" value="出库管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
@@ -814,8 +814,8 @@
         <mxCell id="fn-XdQQ4jEpp8Li5v1X1-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="760" y="560" width="360" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="fn-XdQQ4jEpp8Li5v1X1-42" value="卤水净化检测系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="855.3199999999999" y="570" width="165" height="30" as="geometry" />
+        <mxCell id="fn-XdQQ4jEpp8Li5v1X1-42" value="制盐过程数字化监测系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="855.32" y="570" width="184.68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fn-XdQQ4jEpp8Li5v1X1-43" value="离子浓度监测与显示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="790.63" y="640" width="129.37" height="50" as="geometry" />
@@ -848,10 +848,10 @@
           <mxGeometry x="905" y="930" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpHRX6cEiWNjvjujLf0u-2" value="MySQL" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="450" y="1125" width="60" height="60" as="geometry" />
+          <mxGeometry x="595" y="1125" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpHRX6cEiWNjvjujLf0u-3" value="PostgreSQL" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="580" y="1125" width="110" height="60" as="geometry" />
+          <mxGeometry x="825.32" y="1125" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpHRX6cEiWNjvjujLf0u-4" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="280" y="990" width="80" height="60" as="geometry" />
@@ -873,12 +873,6 @@
         </mxCell>
         <mxCell id="wpHRX6cEiWNjvjujLf0u-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="717.5" y="1060" width="65" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wpHRX6cEiWNjvjujLf0u-11" value="ElasticSearch" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="755" y="1125" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wpHRX6cEiWNjvjujLf0u-12" value="Redis" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="930" y="1125" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpHRX6cEiWNjvjujLf0u-13" value="基础设施" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="280" y="1255" width="80" height="60" as="geometry" />
@@ -913,23 +907,26 @@
         <mxCell id="wpHRX6cEiWNjvjujLf0u-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="705" y="1195" width="65" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QUeb4zWxYY1m3Bw0zcpq-1" value="参数可视化" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="QUeb4zWxYY1m3Bw0zcpq-1" value="参数可视化" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="440" y="810" width="110" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="QUeb4zWxYY1m3Bw0zcpq-2" value="预警系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="QUeb4zWxYY1m3Bw0zcpq-2" value="预警系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="570" y="810" width="110" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="QUeb4zWxYY1m3Bw0zcpq-3" value="辅助决策" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="QUeb4zWxYY1m3Bw0zcpq-3" value="辅助决策" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="502.82" y="860" width="110" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="QUeb4zWxYY1m3Bw0zcpq-4" value="沉降量可视化" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="QUeb4zWxYY1m3Bw0zcpq-4" value="沉降量可视化" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="795.32" y="812.5" width="110" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="QUeb4zWxYY1m3Bw0zcpq-5" value="预警系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="QUeb4zWxYY1m3Bw0zcpq-5" value="预警系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="960" y="812.5" width="110" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="QUeb4zWxYY1m3Bw0zcpq-7" value="管道指标可视化" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="QUeb4zWxYY1m3Bw0zcpq-7" value="管道指标可视化" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="877.5" y="860" width="122.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="epyKblRyyHqgzoLLBMUB-1" value="存储服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1137.5" width="110" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
