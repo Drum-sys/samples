@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T07:10:05.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="soT0MvPoDRPdPlw3B979" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T07:13:46.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="1r0ebig5YrkFdxd6FgNt" version="21.3.7" type="github">
   <diagram name="第 1 页" id="F_FN7IBZuOVjXzTydqT_">
     <mxGraphModel dx="2120" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -14,10 +14,10 @@
           <mxGeometry x="-440" y="-620" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sz6CsE-mwLUf9pzoD_eq-4" value="使用word2vec模型训练" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="-830" width="240" height="60" as="geometry" />
+          <mxGeometry x="-160" y="-830" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sz6CsE-mwLUf9pzoD_eq-5" value="GNN+SelfExp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="-620" width="240" height="60" as="geometry" />
+          <mxGeometry x="-160" y="-620" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sz6CsE-mwLUf9pzoD_eq-6" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.514;entryY=1.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sz6CsE-mwLUf9pzoD_eq-1" target="sz6CsE-mwLUf9pzoD_eq-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -43,8 +43,29 @@
             <mxPoint x="-70" y="-790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sz6CsE-mwLUf9pzoD_eq-11" value="特征矩阵`$W$`" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-830" width="200" height="60" as="geometry" />
+        <mxCell id="sz6CsE-mwLUf9pzoD_eq-11" value="特征矩阵S" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-830" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sz6CsE-mwLUf9pzoD_eq-12" value="特征矩阵D" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-620" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sz6CsE-mwLUf9pzoD_eq-13" value="concatentate" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sz6CsE-mwLUf9pzoD_eq-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sz6CsE-mwLUf9pzoD_eq-4" target="sz6CsE-mwLUf9pzoD_eq-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="-560" as="sourcePoint" />
+            <mxPoint x="80" y="-610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sz6CsE-mwLUf9pzoD_eq-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sz6CsE-mwLUf9pzoD_eq-5" target="sz6CsE-mwLUf9pzoD_eq-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="-560" as="sourcePoint" />
+            <mxPoint x="80" y="-610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sz6CsE-mwLUf9pzoD_eq-18" value="基于本征间隙的谱聚类算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-720" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
